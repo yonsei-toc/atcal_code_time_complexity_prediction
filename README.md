@@ -59,5 +59,17 @@ Run train.py
 python train.py
 ```
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue to improve this repository.
+## 🖊 Citation
+```text
+@article{park2025complexity,
+    title = {Advanced code time complexity prediction approach using contrastive learning},
+    author = {Shinwoo Park and Joonghyuk Hahn and Elizabeth Orwig and Sang-Ki Ko and Yo-Sub Han},
+    journal = {Engineering Applications of Artificial Intelligence},
+    year = {2025},
+    volume = {151},
+    pages = {110631},
+    issn = {0952-1976},
+    doi = {https://doi.org/10.1016/j.engappai.2025.110631},
+    url = {https://www.sciencedirect.com/science/article/pii/S0952197625006311},
+}
+```
